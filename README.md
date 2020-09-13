@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##  COVID-19 Statistics
 
-In the project directory, you can run:
+A small ReactJS app for monitoring COVID-19 statistcs
 
 ### `yarn start`
 
